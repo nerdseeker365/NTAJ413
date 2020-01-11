@@ -1,0 +1,5 @@
+name:jani
+addrs:hyd
+age:30
+qlfy: b.tech
+hobies: sleeping, meditation,roaming,surfing,gossiping
